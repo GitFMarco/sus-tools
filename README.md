@@ -1,4 +1,4 @@
-# sus-tools
+# 𓁹‿𓁹
 
 > **Disclaimer:** This repository is for **educational and research purposes only**. The tools collected here are meant to document and understand how certain software mechanisms work. I do **not** use any of these tools, and you **should not** use them either. Using these scripts may violate the terms of service of the software involved and could be illegal in your jurisdiction. The author takes no responsibility for any misuse.
 
